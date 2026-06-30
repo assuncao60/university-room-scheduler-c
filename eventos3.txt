@@ -1,0 +1,21 @@
+20
+2026 08 19 09 00 180 2.04:Curso de Segurança:Paulo Gomes
+2026 12 14 13 00 480 2.14:Planeamento Comercial:Diogo Rocha
+2026 06 17 11 00 60 2.01:Seminário de IA:Eva Martins
+2026 06 05 14 00 240 2.12:Conferência Tecnológica:Bruno Costa
+2026 09 24 15 00 120 2.01:Debate de Inovação:Vera Neves
+2027 01 07 10 00 180 2.02:Curso de APIs:Eva Martins
+2026 08 04 14 00 300 2.13:Formação Avançada:Nuno Ramos
+2026 09 15 13 00 240 2.12:Conferência Tecnológica:Tiago Cardoso
+2027 02 10 11 00 120 2.13:Workshop de Dados:Gabriela Lopes
+2026 07 08 09 00 720 2.16:Conferência de Engenharia:Inês Ferreira
+2026 07 27 17 00 60 2.08:Seminário de Sistemas:Marta Correia
+2027 02 03 15 00 360 2.06:Planeamento de Produto:Hugo Almeida
+2026 10 02 09 00 1440 2.15:Seminário de IA:Xavier Duarte
+2026 11 18 16 00 120 2.05:Reunião de Estratégia:Bruno Costa
+2026 06 12 16 00 300 2.15:Planeamento Comercial:Diogo Rocha
+2026 08 11 11 00 240 2.06:Reunião de Projeto:Olga Ribeiro
+2026 09 03 10 00 180 2.07:Planeamento de Produto:Sara Vieira
+2026 08 28 16 00 600 2.10:Workshop de Dados:Ricardo Teixeira
+2026 07 21 10 00 360 2.02:Reunião de Estratégia:Luís Santos
+2026 10 13 14 00 360 2.03:Workshop de Cloud:Yara Monteiro
